@@ -1,0 +1,1 @@
+# vitePluginAutoI18nDemo
