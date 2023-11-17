@@ -40,7 +40,7 @@ export default defineConfig({
                 namespace: 'lang',
                 distPath: './dist/assets',
                 distKey: 'index',
-                targetLangList: ['en', 'ko', 'ja'],
+                targetLangList: ['en', 'ko', 'ja', 'zh-tw'],
                 originLang: 'zh-cn',
             }
         }),

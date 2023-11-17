@@ -1,8 +1,8 @@
 <!--
  * @Author: xiaoshanwen
  * @Date: 2023-08-11 09:56:13
- * @LastEditTime: 2023-11-15 12:09:56
- * @FilePath: /i18n_translation_vite/example/vue3/src/App.vue
+ * @LastEditTime: 2023-11-17 13:49:19
+ * @FilePath: /vitePluginAutoI18nDemo/example/vue3/src/App.vue
 -->
 <template>
   <div class="main">
@@ -13,6 +13,7 @@
       </div>
       <div class="operation">
         <a-button @click="changeLang('zhcn')" class="mr10">中文</a-button>
+        <a-button @click="changeLang('zhtw')" class="mr10">中文繁体</a-button>
         <a-button @click="changeLang('en')" class="mr10">英文</a-button>
         <a-button @click="changeLang('ko')" class="mr10">韩文</a-button>
         <a-button @click="changeLang('ja')" class="mr10">日文</a-button>
