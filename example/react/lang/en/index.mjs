@@ -1,1 +1,0 @@
-export default {"mldv4g8":"Awesome, my translator"}

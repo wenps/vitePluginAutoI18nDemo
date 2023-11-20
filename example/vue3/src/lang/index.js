@@ -1,21 +1,17 @@
 /*
  * @Author: xiaoshanwen
  * @Date: 2023-10-12 13:08:36
- * @LastEditTime: 2023-11-17 13:48:59
+ * @LastEditTime: 2023-11-20 14:57:54
  * @FilePath: /vitePluginAutoI18nDemo/example/vue3/src/lang/index.js
  */
 import '../../lang/index'
-import EN from '../../lang/en/index.mjs'
-import CN from '../../lang/zh-cn/index.mjs'
-import KO from '../../lang/ko/index.mjs'
-import JA from '../../lang/ja/index.mjs'
-import CNTW from '../../lang/zh-tw/index.mjs'
+import langJSON from '../../lang/index.json'
 const langMap = {
-    en: window?.lang?.en || EN,
-    zhcn: window?.lang?.zhcn || CN,
-    ko: window?.lang?.ko || KO,
-    ja: window?.lang?.ja || JA,
-    zhtw: window?.lang?.zhtw || CNTW,
+    en: window?.lang?.en || _getJSONKey('en', langJSON),
+    zhcn: window?.lang?.zhcn || _getJSONKey('zhcn', langJSON),
+    ko: window?.lang?.ko || _getJSONKey('ko', langJSON),
+    ja: window?.lang?.ja || _getJSONKey('ja', langJSON),
+    zhtw: window?.lang?.zhtw || _getJSONKey('zhtw', langJSON),
 }
 const lang = window.localStorage.getItem('lang') || 'zhcn'
 window.$t.locale(langMap[lang], 'lang')
