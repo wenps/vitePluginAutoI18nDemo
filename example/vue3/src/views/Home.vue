@@ -1,8 +1,8 @@
 <!--
  * @Author: xiaoshanwen
  * @Date: 2023-08-09 11:48:25
- * @LastEditTime: 2023-11-15 12:21:02
- * @FilePath: /i18n_translation_vite/example/vue3/src/views/Home.vue
+ * @LastEditTime: 2023-11-20 15:09:04
+ * @FilePath: /vitePluginAutoI18nDemo/example/vue3/src/views/Home.vue
 -->
 <template>
    <div class="content">
@@ -148,26 +148,24 @@ export default defineConfig({
     <h3>lang file</h3>
     <h4>演示配置lang文件</h4>
     <pre><code class="undefinedjs">import '../../lang/index'
-import EN from '../../lang/en/index.mjs'
-import CN from '../../lang/zh-cn/index.mjs'
+import langJSON from '../../lang/index.json'
 const langMap = {
-  en: window?.lang?.en || EN,
-  zhcn: window?.lang?.zhcn || CN
+    en: window?.lang?.en || _getJSONKey('en', langJSON),
+    zhcn: window?.lang?.zhcn || _getJSONKey('zhcn', langJSON
 }
 const lang = window.localStorage.getItem('lang') || 'zhcn'
 window.$t.locale(langMap[lang], 'lang')
     </code></pre>
     <h4>演示介绍</h4>
-    <pre><code class="undefinedjs">import CN from '../../[your globalPath]/[your originLangKey]/index.mjs'
-// 这里只演示了targetLangList长度为零的情况，如果有多种语言就继续往下加
-import EN from '../../[your globalPath]/[your targetLangList[0]]/index.mjs'
+    <pre><code class="undefinedjs">import '../../lang/index' // 导入翻译基础函数
+import langJSON from '../../lang/index.json // 导入翻译对象json
 const langMap = {
-  [your originLangKey]: window?.[your namespace]?.[your originLangKey] || CN,
-  [your targetLangList[0]]: window?.[your namespace]?.[your targetLangList[0]] || EN
+    [ your originLangKey ]: window?.[ your namespace ]?.[ your originLangKey } || _getJSONKey('zhcn', langJSON)
+    [ your targetLangList[0] ]: window?.[ your namespace ]?.[ your targetLangList[0] } || _getJSONKey('en', langJSON),
 }
 // window.localStorage.getItem('lang') Storing the current language type
-const lang = window.localStorage.getItem('lang') || [your originLangKey](defualt lang),
-window.[your translateKey].locale(langMap[lang], [your namespace])
+const lang = window.localStorage.getItem('lang') || [ your originLangKey ](defualt lang)
+window.[ your translateKey ].locale(langMap[lang], [your namespace ])
     </code></pre>
   </div>
 </template>
