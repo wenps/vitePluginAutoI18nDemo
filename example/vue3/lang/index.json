@@ -1,0 +1,345 @@
+{
+	"g5z62": {
+		"zh-cn": "小山",
+		"en": "hill",
+		"ko": "언덕",
+		"ja": "丘",
+		"zh-tw": "小山"
+	},
+	"1cjag4": {
+		"zh-cn": "12小时",
+		"en": "12 hours",
+		"ko": "12 시간",
+		"ja": "12時間",
+		"zh-tw": "12小時"
+	},
+	"xsbfmc7": {
+		"zh-cn": "自动国际化插件",
+		"en": "Automatic internationalization plug-in",
+		"ko": "자동 국제화 플러그인",
+		"ja": "自動国際化プラグイン",
+		"zh-tw": "自動國際化插件"
+	},
+	"dure2": {
+		"zh-cn": "中文",
+		"en": "Chinese",
+		"ko": "중국인",
+		"ja": "中国語",
+		"zh-tw": "中文"
+	},
+	"aag1ws4": {
+		"zh-cn": "中文繁体",
+		"en": "traditional Chinese",
+		"ko": "중국어 번체",
+		"ja": "繁体字中国語",
+		"zh-tw": "中文繁體"
+	},
+	"mtva2": {
+		"zh-cn": "英文",
+		"en": "English",
+		"ko": "영어",
+		"ja": "英語",
+		"zh-tw": "英文"
+	},
+	"qe9q2": {
+		"zh-cn": "韩文",
+		"en": "Korean",
+		"ko": "한국인",
+		"ja": "韓国語",
+		"zh-tw": "韓文"
+	},
+	"hw022": {
+		"zh-cn": "日文",
+		"en": "Japanese",
+		"ko": "일본어",
+		"ja": "日本語",
+		"zh-tw": "日文"
+	},
+	"e3j62": {
+		"zh-cn": "介绍",
+		"en": "introduce",
+		"ko": "소개하다",
+		"ja": "導入",
+		"zh-tw": "介紹"
+	},
+	"9xgbc210": {
+		"zh-cn": "基于谷歌翻译api的vite自动翻译插件，优势——无需改动源码，一键翻译",
+		"en": "Vite automatic translation plug-in based on Google Translate API, advantage - no need to change the source code, one-click translation",
+		"ko": "Google Translate API를 기반으로 한 Vite 자동 번역 플러그인, 장점 - 소스 코드를 변경할 필요가 없으며 원클릭 번역",
+		"ja": "Google Translate APIに基づくVite自動翻訳プラグイン、利点 - ソースコードを変更する必要がなく、ワンクリック翻訳",
+		"zh-tw": "基於Google翻譯api的vite自動翻譯插件，優點－無需改動原始碼，一鍵翻譯"
+	},
+	"hr5e2": {
+		"zh-cn": "支持",
+		"en": "support",
+		"ko": "지원하다",
+		"ja": "サポート",
+		"zh-tw": "支援"
+	},
+	"wxbiabf": {
+		"zh-cn": "支持语言：[langFile]",
+		"en": "Supported languages: [langFile]",
+		"ko": "지원되는 언어: [langFile]",
+		"ja": "サポートされている言語: [langFile]",
+		"zh-tw": "支援語言：[langFile]"
+	},
+	"k38g2": {
+		"zh-cn": "特点",
+		"en": "Features",
+		"ko": "특징",
+		"ja": "特徴",
+		"zh-tw": "特點"
+	},
+	"5r7wejo": {
+		"zh-cn": "不影响源代码（不再需要替换源代码中的i18n）。",
+		"en": "No impact on source code (i18n in source code no longer needs to be replaced).",
+		"ko": "소스 코드에 영향을 주지 않습니다(소스 코드의 i18n을 더 이상 교체할 필요가 없습니다).",
+		"ja": "ソース コードには影響しません (ソース コード内の i18n を置き換える必要はなくなりました)。",
+		"zh-tw": "不影響原始碼（不再需要替換原始碼中的i18n）。"
+	},
+	"utkm5y5": {
+		"zh-cn": "一键翻译.",
+		"en": "One-click translation.",
+		"ko": "원클릭 번역.",
+		"ja": "ワンクリック翻訳。",
+		"zh-tw": "一鍵翻譯."
+	},
+	"jls24o6": {
+		"zh-cn": "支持多国语言",
+		"en": "support multi-languauge",
+		"ko": "다국어 지원",
+		"ja": "多言語をサポート",
+		"zh-tw": "支援多國語言"
+	},
+	"3cygkr7": {
+		"zh-cn": "和其他类型文件",
+		"en": "and other types of files",
+		"ko": "및 기타 유형의 파일",
+		"ja": "および他の種類のファイル",
+		"zh-tw": "和其他類型文件"
+	},
+	"e5xl2": {
+		"zh-cn": "使用",
+		"en": "use",
+		"ko": "사용",
+		"ja": "使用",
+		"zh-tw": "使用"
+	},
+	"gbj02": {
+		"zh-cn": "安装",
+		"en": "Install",
+		"ko": "설치하다",
+		"ja": "インストール",
+		"zh-tw": "安裝"
+	},
+	"pewx2": {
+		"zh-cn": "配置",
+		"en": "Configuration",
+		"ko": "구성",
+		"ja": "構成",
+		"zh-tw": "配置"
+	},
+	"esxa2": {
+		"zh-cn": "参数",
+		"en": "parameter",
+		"ko": "매개변수",
+		"ja": "パラメータ",
+		"zh-tw": "參數"
+	},
+	"lnjk2": {
+		"zh-cn": "类型",
+		"en": "type",
+		"ko": "유형",
+		"ja": "タイプ",
+		"zh-tw": "類型"
+	},
+	"h2w42": {
+		"zh-cn": "必选",
+		"en": "required",
+		"ko": "필수의",
+		"ja": "必須",
+		"zh-tw": "必選"
+	},
+	"nxrsg3": {
+		"zh-cn": "默认值",
+		"en": "default value",
+		"ko": "기본값",
+		"ja": "デフォルト値",
+		"zh-tw": "預設值"
+	},
+	"hrlt2": {
+		"zh-cn": "描述",
+		"en": "describe",
+		"ko": "설명하다",
+		"ja": "説明する",
+		"zh-tw": "描述"
+	},
+	"p53n5re": {
+		"zh-cn": "插件转换后切换语言的默认函数",
+		"en": "Default function for switching languages ​​after plug-in conversion",
+		"ko": "플러그인 변환 후 언어 전환을 위한 기본 기능",
+		"ja": "プラグイン変換後の言語切り替えのデフォルト機能",
+		"zh-tw": "插件轉換後切換語言的預設函數"
+	},
+	"ne3sy8b": {
+		"zh-cn": "标记不会翻译的调用函数",
+		"en": "Mark function calls that will not be translated",
+		"ko": "번역되지 않을 함수 호출을 표시하세요.",
+		"ja": "変換されない関数呼び出しにマークを付ける",
+		"zh-tw": "標記不會翻譯的呼叫函數"
+	},
+	"f3598ra": {
+		"zh-cn": "标记不会翻译的字符串",
+		"en": "Mark strings that will not be translated",
+		"ko": "번역되지 않을 문자열 표시",
+		"ja": "翻訳されない文字列にマークを付ける",
+		"zh-tw": "標記不會翻譯的字串"
+	},
+	"m6u8yra": {
+		"zh-cn": "不翻译指定目录下文件",
+		"en": "Do not translate files in the specified directory",
+		"ko": "지정된 디렉터리의 파일을 번역하지 마세요.",
+		"ja": "指定されたディレクトリ内のファイルを翻訳しません",
+		"zh-tw": "不翻譯指定目錄下文件"
+	},
+	"6pfhiu9": {
+		"zh-cn": "翻译指定目录下文件",
+		"en": "Translate files in the specified directory",
+		"ko": "지정된 디렉터리의 파일을 번역합니다.",
+		"ja": "指定されたディレクトリ内のファイルを翻訳します",
+		"zh-tw": "翻譯指定目錄下文件"
+	},
+	"ln967ca": {
+		"zh-cn": "翻译配置文件生成位置",
+		"en": "Translation configuration file generation location",
+		"ko": "번역 구성 파일 생성 위치",
+		"ja": "翻訳設定ファイルの生成場所",
+		"zh-tw": "翻譯設定檔產生位置"
+	},
+	"vdo0cwr": {
+		"zh-cn": "打包后生成文件的位置 比如 ./dist/assets",
+		"en": "The location of the generated file after packaging, such as ./dist/assets",
+		"ko": "./dist/assets와 같은 패키징 후 생성된 파일의 위치",
+		"ja": "パッケージ化後に生成されるファイルの場所 (./dist/assets など)",
+		"zh-tw": "打包後產生檔案的位置 例如 ./dist/assets"
+	},
+	"rrgh3fd": {
+		"zh-cn": "用于将翻译配置注入打包文件",
+		"en": "Used to inject translation configuration into packaging files",
+		"ko": "패키징 파일에 번역 구성을 삽입하는 데 사용됩니다.",
+		"ja": "翻訳構成をパッケージ化ファイルに挿入するために使用されます",
+		"zh-tw": "用於將翻譯配置注入打包文件"
+	},
+	"ye3wg8y": {
+		"zh-cn": "打包后生成文件的主文件名称，比如index.xxx 默认是index",
+		"en": "The main file name of the generated file after packaging, such as index.xxx. The default is index.",
+		"ko": "index.xxx와 같은 패키징 후 생성된 파일의 기본 파일 이름입니다. 기본값은 index입니다.",
+		"ja": "パッケージ化後に生成されるファイルのメイン ファイル名 (index.xxx など)。デフォルトは、index です。",
+		"zh-tw": "打包後產生檔案的主檔案名稱，例如index.xxx 預設是index"
+	},
+	"k486tve": {
+		"zh-cn": "线上区分当前项目间的翻译配置",
+		"en": "Distinguish translation configurations between current projects online",
+		"ko": "현재 온라인 프로젝트 간의 번역 구성 구별",
+		"ja": "現在のプロジェクト間の翻訳構成をオンラインで区別する",
+		"zh-tw": "線上區分目前項目間的翻譯配置"
+	},
+	"z0yx8lh": {
+		"zh-cn": "源语言（基于该语言翻译成其他语言）",
+		"en": "Source language (translations into other languages ​​based on this language)",
+		"ko": "원어(이 언어를 기반으로 다른 언어로 번역)",
+		"ja": "ソース言語 (この言語に基づく他の言語への翻訳)",
+		"zh-tw": "源語言（基於該語言翻譯成其他語言）"
+	},
+	"ahrg1gy": {
+		"zh-cn": "目标语言（原始语言将被翻译成的语言类型，接受一个数组，支持多种语言）",
+		"en": "Target language (the language type that the original language will be translated into, accepts an array, supports multiple languages)",
+		"ko": "대상 언어(원래 언어가 번역될 언어 유형, 배열 허용, 여러 언어 지원)",
+		"ja": "ターゲット言語 (元の言語が翻訳される言語タイプ、配列を受け入れ、複数の言語をサポート)",
+		"zh-tw": "目標語言（原始語言將被翻譯成的語言類型，接受一個數組，支援多種語言）"
+	},
+	"krdm6ai": {
+		"zh-cn": "支持语言类型（[langFile]）",
+		"en": "Support language type ([langFile])",
+		"ko": "지원 언어 유형([langFile])",
+		"ja": "サポート言語タイプ ([langFile])",
+		"zh-tw": "支援語言類型（[langFile]）"
+	},
+	"z4q27fd": {
+		"zh-cn": "是否将翻译配置打包到主包中",
+		"en": "Whether to package translation configuration into the main package",
+		"ko": "번역 구성을 기본 패키지에 패키지할지 여부",
+		"ja": "翻訳設定をメインパッケージにパッケージ化するかどうか",
+		"zh-tw": "是否將翻譯配置打包到主包中"
+	},
+	"w0fi2r5": {
+		"zh-cn": "为什么需要",
+		"en": "why needed",
+		"ko": "왜 필요한가?",
+		"ja": "なぜ必要なのか",
+		"zh-tw": "為什麼需要"
+	},
+	"yzcto221": {
+		"zh-cn": "在vite环境中执行插件后，只生成翻译配置文件。如果您直接构建它，项目将生成翻译配置文件。但翻译配置文件不会立即打包到主包中，您可能需要再次打包。",
+		"en": "After executing the plug-in in the vite environment, only the translation configuration file is generated. If you build it directly, the project will generate translation configuration files. However, the translation configuration files are not immediately packaged into the main package, and you may need to package them again.",
+		"ko": "vite 환경에서 플러그인을 실행하면 번역 구성 파일만 생성됩니다. 직접 빌드하면 프로젝트에서 번역 구성 파일이 생성됩니다. 그러나 번역 구성 파일은 기본 패키지에 즉시 패키징되지 않으므로 다시 패키징해야 할 수도 있습니다.",
+		"ja": "vite 環境でプラグインを実行すると、変換設定ファイルのみが生成されます。直接ビルドすると、プロジェクトによって変換構成ファイルが生成されます。ただし、変換構成ファイルはメイン パッケージにすぐにはパッケージ化されないため、再度パッケージ化する必要がある場合があります。",
+		"zh-tw": "在vite環境中執行外掛程式後，只產生翻譯設定檔。如果您直接建立它，專案將產生翻譯設定檔。但翻譯設定檔不會立即打包到主包中，您可能需要再次打包。"
+	},
+	"jypfzs10": {
+		"zh-cn": "因此，提供了buildToDist选项，当创建翻译配置文件时，它将主动将",
+		"en": "Therefore, the buildToDist option is provided, which will actively add the",
+		"ko": "따라서 buildToDist 옵션이 제공됩니다.",
+		"ja": "したがって、buildToDist オプションが提供されており、これにより、",
+		"zh-tw": "因此，提供了buildToDist選項，當建立翻譯設定檔時，它將主動將"
+	},
+	"7nexml9": {
+		"zh-cn": "翻译配置文件打包进",
+		"en": "Translation configuration files are packaged into",
+		"ko": "번역 구성 파일은 다음과 같이 패키지되어 있습니다.",
+		"ja": "翻訳設定ファイルは以下にパッケージ化されています",
+		"zh-tw": "翻譯設定檔打包進"
+	},
+	"fxk14dn": {
+		"zh-cn": "主包，缺陷是您的打包文件可能有两份翻译配置文件",
+		"en": "Main package, the defect is that your package file may have two translation configuration files",
+		"ko": "기본 패키지, 결함은 패키지 파일에 두 개의 번역 구성 파일이 있을 수 있다는 것입니다.",
+		"ja": "メイン パッケージの欠点は、パッケージ ファイルに 2 つの変換設定ファイルが含まれる可能性があることです。",
+		"zh-tw": "主包，缺陷是您的打包文件可能有兩份翻譯配置文件"
+	},
+	"iuyotj4": {
+		"zh-cn": "配置演示",
+		"en": "Configuration demo",
+		"ko": "구성 데모",
+		"ja": "構成デモ",
+		"zh-tw": "配置演示"
+	},
+	"c9npl315": {
+		"zh-cn": "import './lang' //  必须在项目的入口文件第一行引入lang文件",
+		"en": "import './lang' // The lang file must be imported in the first line of the project's entry file",
+		"ko": "import './lang' // 프로젝트 항목 파일의 첫 번째 줄에 lang 파일을 가져와야 합니다.",
+		"ja": "import './lang' // lang ファイルはプロジェクトのエントリ ファイルの最初の行にインポートする必要があります",
+		"zh-tw": "import './lang' // 必須在專案的入口文件第一行引入lang文件"
+	},
+	"o63r6sa": {
+		"zh-cn": "演示配置lang文件",
+		"en": "Demo configuration lang file",
+		"ko": "데모 구성 언어 파일",
+		"ja": "デモ構成 lang ファイル",
+		"zh-tw": "演示配置lang文件"
+	},
+	"eiiemg4": {
+		"zh-cn": "演示介绍",
+		"en": "Demo introduction",
+		"ko": "데모 소개",
+		"ja": "デモの紹介",
+		"zh-tw": "示範介紹"
+	},
+	"qxmj5wga": {
+		"zh-cn": "import '../../lang/index' // 导入翻译基础函数\nimport langJSON from '../../lang/index.json // 导入翻译对象json\nconst langMap = {\n    [ your originLangKey ]: window?.[ your namespace ]?.[ your originLangKey } || _getJSONKey('zhcn', langJSON)\n    [ your targetLangList[0] ]: window?.[ your namespace ]?.[ your targetLangList[0] } || _getJSONKey('en', langJSON),\n}\n// window.localStorage.getItem('lang') Storing the current language type\nconst lang = window.localStorage.getItem('lang') || [ your originLangKey ](defualt lang)\nwindow.[ your translateKey ].locale(langMap[lang], [your namespace ])",
+		"en": "import '../../lang/index' // Import translation basic functions\nimport langJSON from '../../lang/index.json // Import translation object json\nconst langMap = {\n    [ your originLangKey ]: window?.[ your namespace ]?.[ your originLangKey } || _getJSONKey('zhcn', langJSON)\n    [ your targetLangList[0] ]: window?.[ your namespace ]?.[ your targetLangList[0] } || _getJSONKey('en', langJSON),\n}\n// window.localStorage.getItem('lang') Storing the current language type\nconst lang = window.localStorage.getItem('lang') || [ your originLangKey ](defualt lang)\nwindow.[ your translateKey ].locale(langMap[lang], [your namespace ])",
+		"ko": "import '../../lang/index' // 번역 기본 기능 가져오기\nimport langJSON from '../../lang/index.json // 번역 객체 json 가져오기\nconst langMap = {\n    [ 귀하의 OriginLangKey ]: window?.[ 귀하의 네임스페이스 ]?.[ 귀하의 OriginLangKey } || _getJSONKey('zhcn', langJSON)\n    [ 귀하의 targetLangList[0] ]: window?.[ 귀하의 네임스페이스 ]?.[ 귀하의 targetLangList[0] } || _getJSONKey('en', langJSON),\n}\n// window.localStorage.getItem('lang') 현재 언어 유형 저장\nconst lang = window.localStorage.getItem('lang') || [ 귀하의 OriginLangKey ](기본 lang)\nwindow.[ 귀하의 번역 키 ].locale(langMap[lang], [ 귀하의 네임스페이스 ])",
+		"ja": "import '../../lang/index' // 翻訳基本関数をインポート\nimport langJSON from '../../lang/index.json // 翻訳オブジェクト json をインポート\nconst langMap = {\n    [あなたのoriginLangKey ]: window?.[あなたの名前空間]?.[あなたのoriginLangKey } || _getJSONKey('zhcn', langJSON)\n    [ your targetLangList[0] ]: window?.[ your namespace ]?.[ your targetLangList[0] } || _getJSONKey('en', langJSON),\n}\n// window.localStorage.getItem('lang') 現在の言語タイプを保存します\nconst lang = window.localStorage.getItem('lang') || [originLangKey ](default lang)\nwindow.[あなたのtranslateKey].locale(langMap[lang], [あなたの名前空間])",
+		"zh-tw": "import '../../lang/index' // 導入翻譯基礎函數\nimport langJSON from '../../lang/index.json // 匯入翻譯物件json\nconst langMap = {\n    [ your originLangKey ]: window?.[ your namespace ]?.[ your originLangKey } || _getJSONKey('zhcn', langJSON)\n    [ your targetLangList[0] ]: window?.[ your namespace ]?.[ your targetLangList[0] } || _getJSONKey('en', langJSON),\n}\n// window.localStorage.getItem('lang') Storing the current language type\nconst lang = window.localStorage.getItem('lang') || [ your originLangKey ](defualt lang)\nwindow.[ your translateKey ].locale(langMap[lang], [your namespace ])"
+	}
+}

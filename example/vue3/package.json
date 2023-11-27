@@ -15,7 +15,7 @@
     "@vitejs/plugin-vue": "^1.10.2",
     "ant-design-vue": "^3.2.20",
     "tunnel": "0.0.6",
-    "vite-plugin-auto-i18n": "0.0.6",
+    "vite-plugin-auto-i18n": "0.0.7",
     "vite-plugin-vue2": "^2.0.3",
     "vue": "^3.2.13",
     "vue-loader": "^17.2.2",
